@@ -5,7 +5,7 @@
 
 📊 執行成果展示 
 
-<img src="em_wave_animation.gif" alt="電磁波模擬動態效果" width="600">
+![電磁波動態模擬 GIF 動畫]em_wave_animation.gif
 
 🛠 執行環境需求 
 本專案於 Python 環境下開發，執行前請確保已安裝相關套件： pip install numpy matplotlib
