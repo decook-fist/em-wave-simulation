@@ -15,6 +15,7 @@
 
 
 [2] 參數設定 (Parameters) 
+
 ![part2_parameters](part2_parameters.png)
 
 
