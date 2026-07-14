@@ -5,6 +5,7 @@
 📊 執行成果展示 
 <video width="100%" controls>
   <source src="em_wave_animation.mp4" type="video/mp4">
+</video>  
 
 🛠 執行環境需求 本專案於 Python 環境下開發，執行前請確保已安裝相關套件： pip install numpy matplotlib
 
