@@ -3,11 +3,14 @@
 ## 📝 作品簡介 
 本專案利用 Python 進行電磁波之數值模擬，驗證電場 (E-field) 與磁場 (B-field) 在三維空間中之正交特性。
 
+
 ## 📊 執行成果展示 
 ![電磁波動態模擬 GIF 動畫](em_wave_animation.gif)
 
+
 ## 🛠 執行環境需求 
 本專案於 Python 環境下開發，執行前請確保已安裝相關套件： pip install numpy matplotlib
+
 
 ## 💻 核心原始碼 (Source Code) 
 💡 教授您好，以下為本專案之核心3D電磁波動態的完整程式碼：
